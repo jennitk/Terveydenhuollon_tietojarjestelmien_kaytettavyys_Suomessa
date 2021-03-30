@@ -1,0 +1,2 @@
+# Terveydenhuollon_tietojarjestelmien_kaytettavyys_Suomessa
+Keskeneräinen kandidaatin tutkielmani aiheesta Terveydenhuollon tietojärjestelmien käytettävyys Suomessa.
